@@ -38,5 +38,6 @@ void loop(){
     if(c=='5'){
       digitalWrite(LED_PIN3,LOW);
     }
+    //end of Edit made by person B
   }
 }
